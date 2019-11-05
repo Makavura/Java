@@ -44,18 +44,17 @@ class tripPlanner{
     }
 
     // convert days to hours and minutes
-    static void dayConversion() {   
-
-
+    static void dayConversion(int days) {   
+        
     }
 
     // compute daily spend 
-    static void dailySpend() {
+    static void dailySpend(int budget, int days) {
 
     }
 
     // convert from 
-    static void cashCoversion() {
+    static void cashCoversion(int budget, int conversion) {
 
     }
 
