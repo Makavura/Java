@@ -1,6 +1,11 @@
 # TRIP PLANNER REQUIREMENTS
 
-For your first project, we are going to break up the work into different parts. You’ll want to think about the process of development when approaching any project. As the course progresses you’ll be expected to do more of this planning yourself, but for now pay attention to how we break the complex problem down into smaller, easier to tackle, pieces.
+
+For this project, you are going to write a program that asks the user for some information about an international trip they are taking. Based on that information you will need to do some conversions, using the correct data types, to tell them some information to help them plan their trip. Here is the sample output:
+
+![Sample Output](tripPlannersampleOutput.png)
+
+Break up the work into different parts. You’ll want to think about the process of development when approaching any project. As the course progresses you’ll be expected to do more of this planning yourself, but for now pay attention to how we break the complex problem down into smaller, easier to tackle, pieces.
 
 ## PART 1 – GREETING
 
